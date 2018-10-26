@@ -1,0 +1,8 @@
+
+src/AWSLambdaSeleniumTest/obj/
+
+test/AWSLambdaSeleniumTest\.Tests/obj/
+
+src/AWSLambdaSeleniumTest/bin/
+
+test/AWSLambdaSeleniumTest\.Tests/bin/
